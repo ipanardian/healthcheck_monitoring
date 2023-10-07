@@ -1,0 +1,18 @@
+# Ignore compiled Rust files and executables
+target/
+Cargo.lock
+
+# Ignore IntelliJ IDEA files (if you use IntelliJ IDEA)
+.idea/
+
+# Ignore Visual Studio Code files (if you use Visual Studio Code)
+.vscode/
+
+# Ignore system and editor-specific files
+.DS_Store
+*.swp
+*.swo
+
+# Ignore any files and directories specified in your .gitignore.local
+# (You can create .gitignore.local for project-specific ignores)
+.gitignore.local
