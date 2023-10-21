@@ -16,3 +16,5 @@ Cargo.lock
 # Ignore any files and directories specified in your .gitignore.local
 # (You can create .gitignore.local for project-specific ignores)
 .gitignore.local
+
+config.toml
