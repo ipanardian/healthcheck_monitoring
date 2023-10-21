@@ -17,4 +17,4 @@ Cargo.lock
 # (You can create .gitignore.local for project-specific ignores)
 .gitignore.local
 
-config.toml
+.env
